@@ -1,0 +1,794 @@
+customer_id,customer_name,segment,first_order_date,order_count
+CG-12520,Claire Gute,Consumer,2020-10-08,3
+DV-13045,Darrin Van Huff,Corporate,2021-06-06,5
+SO-20335,Sean O'Donnell,Consumer,2020-10-04,6
+BH-11710,Brosina Hoffman,Consumer,2019-06-03,8
+AA-10480,Andrew Allen,Consumer,2019-04-28,4
+IM-15070,Irene Maddox,Consumer,2019-12-13,7
+HP-14815,Harold Pawlan,Home Office,2019-04-30,7
+PK-19075,Pete Kriz,Consumer,2019-11-05,12
+AG-10270,Alejandro Grove,Consumer,2019-05-07,5
+ZD-21925,Zuschuss Donatelli,Consumer,2019-08-21,5
+KB-16585,Ken Black,Corporate,2019-03-29,12
+SF-20065,Sandra Flanagan,Consumer,2019-09-04,7
+EB-13870,Emily Burns,Consumer,2019-04-29,10
+EH-13945,Eric Hoffmann,Consumer,2019-06-26,8
+TB-21520,Tracy Blumstein,Consumer,2019-10-11,9
+MA-17560,Matt Abelman,Home Office,2019-08-02,11
+GH-14485,Gene Hale,Corporate,2020-10-01,2
+SN-20710,Steve Nguyen,Home Office,2019-04-30,7
+LC-16930,Linda Cazamias,Corporate,2019-02-14,8
+RA-19885,Ruben Ausman,Corporate,2019-04-02,7
+ES-14080,Erin Smith,Corporate,2019-09-26,9
+ON-18715,Odella Nelson,Corporate,2019-09-07,9
+PO-18865,Patrick O'Donnell,Consumer,2019-03-17,7
+LH-16900,Lena Hernandez,Consumer,2019-08-13,9
+DP-13000,Darren Powers,Consumer,2018-12-28,9
+JM-15265,Janet Molinari,Corporate,2019-08-19,5
+TB-21055,Ted Butterfield,Consumer,2021-06-11,5
+KM-16720,Kunst Miller,Consumer,2019-03-24,8
+PS-18970,Paul Stevenson,Home Office,2019-04-09,8
+BS-11590,Brendan Sweed,Corporate,2019-01-08,6
+KD-16270,Karen Daniels,Consumer,2019-11-05,5
+HM-14980,Henry MacAllister,Consumer,2020-09-25,4
+JE-15745,Joel Eaton,Consumer,2019-06-16,13
+KB-16600,Ken Brennan,Corporate,2019-12-24,7
+SC-20770,Stewart Carmichael,Corporate,2020-06-13,7
+DN-13690,Duane Noonan,Consumer,2019-09-14,7
+JC-16105,Julie Creighton,Corporate,2019-11-12,5
+CS-12400,Christopher Schild,Home Office,2019-09-20,9
+PG-18895,Paul Gonzalez,Consumer,2019-05-05,9
+GM-14455,Gary Mitchum,Home Office,2019-04-05,6
+JS-15685,Jim Sink,Corporate,2021-06-08,4
+KB-16315,Karl Braun,Consumer,2019-08-20,9
+RB-19705,Roger Barcio,Home Office,2020-08-15,4
+PN-18775,Parhena Norris,Home Office,2020-07-31,8
+KD-16345,Katherine Ducich,Consumer,2019-08-27,6
+ER-13855,Elpida Rittenbach,Corporate,2020-12-14,3
+RB-19465,Rick Bensley,Home Office,2019-03-08,12
+GZ-14470,Gary Zandusky,Consumer,2019-07-30,9
+LC-16870,Lena Cacioppo,Consumer,2020-04-26,8
+JM-15250,Janet Martin,Consumer,2021-03-23,6
+PA-19060,Pete Armstrong,Home Office,2019-05-11,6
+CV-12805,Cynthia Voltz,Corporate,2021-05-03,9
+CL-12565,Clay Ludtke,Consumer,2019-02-26,12
+RC-19960,Ryan Crowe,Consumer,2019-08-19,6
+DK-13090,Dave Kipp,Consumer,2020-02-24,7
+GG-14650,Greg Guthrie,Corporate,2019-10-25,9
+SC-20725,Steven Cartwright,Consumer,2019-05-28,11
+AD-10180,Alan Dominguez,Home Office,2019-11-13,8
+PF-19165,Philip Fox,Consumer,2019-09-14,6
+TS-21610,Troy Staebel,Consumer,2019-08-10,7
+LS-16975,Lindsay Shagiari,Home Office,2019-10-14,9
+DW-13585,Dorothy Wardle,Corporate,2019-08-18,7
+LC-16885,Lena Creighton,Consumer,2019-04-19,12
+JD-15895,Jonathan Doherty,Corporate,2019-03-20,11
+SH-19975,Sally Hughsby,Corporate,2019-12-04,13
+SG-20080,Sandra Glassco,Consumer,2020-10-24,3
+HA-14920,Helen Andreada,Consumer,2019-10-05,8
+MG-17680,Maureen Gastineau,Home Office,2019-10-16,4
+JE-16165,Justin Ellison,Corporate,2021-11-29,3
+TW-21025,Tamara Willingham,Home Office,2019-12-16,7
+SP-20650,Stephanie Phelps,Corporate,2019-04-10,9
+NK-18490,Neil Knudson,Home Office,2020-05-21,7
+DB-13060,Dave Brooks,Consumer,2019-02-23,7
+NP-18670,Nora Paige,Consumer,2020-02-21,5
+TT-21070,Ted Trevino,Consumer,2019-05-12,7
+EM-13960,Eric Murdock,Consumer,2020-09-24,5
+RD-19900,Ruben Dartt,Consumer,2019-03-30,9
+MJ-17740,Max Jones,Consumer,2020-06-02,7
+BM-11140,Becky Martin,Consumer,2019-09-02,4
+CS-12130,Chad Sievert,Consumer,2019-07-30,4
+JB-15400,Jennifer Braxton,Corporate,2019-09-08,10
+SJ-20500,Shirley Jackson,Consumer,2019-08-25,5
+JK-15640,Jim Kriz,Home Office,2019-09-13,9
+DK-13150,David Kendrick,Corporate,2019-11-29,2
+RM-19675,Robert Marley,Home Office,2019-11-08,5
+SK-19990,Sally Knutson,Consumer,2021-11-22,3
+FM-14290,Frank Merwin,Home Office,2019-08-20,9
+AM-10360,Alice McCarthy,Corporate,2019-09-30,5
+MP-17470,Mark Packer,Home Office,2019-03-24,7
+MZ-17515,Mary Zewe,Corporate,2019-03-29,6
+CB-12025,Cassandra Brandow,Consumer,2019-03-15,10
+VM-21685,Valerie Mitchum,Home Office,2019-04-01,7
+FH-14365,Fred Hopkins,Corporate,2019-10-14,8
+MB-17305,Maria Bertelson,Consumer,2019-08-02,10
+BS-11755,Bruce Stewart,Consumer,2019-05-12,7
+LC-17140,Logan Currie,Consumer,2019-09-03,9
+HK-14890,Heather Kirkland,Corporate,2019-06-04,8
+LE-16810,Laurel Elliston,Consumer,2019-05-21,6
+JH-15985,Joseph Holt,Consumer,2019-08-03,6
+MS-17980,Michael Stewart,Corporate,2019-06-24,6
+VW-21775,Victoria Wilson,Corporate,2019-05-05,10
+JH-15910,Jonathan Howell,Consumer,2020-06-05,7
+JB-15925,Joni Blumstein,Consumer,2019-11-29,3
+DS-13180,David Smith,Corporate,2019-04-22,9
+VD-21670,Valerie Dominguez,Consumer,2019-07-29,6
+EA-14035,Erin Ashbrook,Corporate,2019-09-07,13
+DB-13120,David Bremer,Corporate,2020-04-24,7
+KL-16645,Ken Lonsdale,Consumer,2019-07-19,12
+DW-13480,Dianna Wilson,Home Office,2019-05-26,5
+LH-17155,Logan Haushalter,Consumer,2019-12-06,9
+KC-16540,Kelly Collister,Consumer,2020-10-26,4
+DL-13315,Delfina Latchford,Consumer,2019-01-10,8
+DR-12880,Dan Reichenbach,Corporate,2020-09-18,9
+CC-12670,Craig Carreira,Consumer,2019-12-17,7
+Dl-13600,Dorris liebe,Corporate,2019-03-24,5
+SB-20290,Sean Braxton,Corporate,2019-05-03,7
+RC-19825,Roy Collins,Consumer,2019-11-29,6
+AH-10210,Alan Hwang,Consumer,2019-11-23,9
+CB-12535,Claudia Bergmann,Corporate,2019-12-27,8
+CA-12310,Christine Abelman,Corporate,2019-07-13,4
+KH-16690,Kristen Hastings,Corporate,2019-03-15,7
+BB-10990,Barry Blumstein,Corporate,2019-07-21,5
+AG-10495,Andrew Gjertsen,Corporate,2019-12-29,8
+JO-15280,Jas O'Carroll,Consumer,2019-03-25,6
+AH-10195,Alan Haines,Corporate,2020-02-27,4
+NZ-18565,Nick Zandusky,Home Office,2019-07-27,9
+KL-16555,Kelly Lampkin,Corporate,2019-06-09,8
+AS-10225,Alan Schoenberger,Corporate,2019-10-12,5
+CR-12625,Corey Roper,Home Office,2019-05-26,3
+SH-20395,Shahid Hopkins,Consumer,2019-10-27,10
+BP-11185,Ben Peterman,Corporate,2020-03-17,9
+TS-21205,Thomas Seio,Corporate,2019-03-15,7
+AG-10525,Andy Gerbode,Corporate,2019-08-03,4
+SP-20860,Sung Pak,Corporate,2019-12-09,10
+NM-18445,Nathan Mautz,Home Office,2019-02-02,7
+FA-14230,Frank Atkinson,Corporate,2019-09-13,7
+GK-14620,Grace Kelly,Corporate,2019-06-19,9
+DJ-13510,Don Jones,Corporate,2019-08-11,8
+PO-18850,Patrick O'Brill,Consumer,2019-10-27,11
+JL-15850,John Lucas,Consumer,2019-07-16,6
+DB-13615,Doug Bickford,Consumer,2019-09-24,7
+AC-10420,Alyssa Crouse,Corporate,2019-07-06,3
+CC-12550,Clay Cheatham,Consumer,2022-06-09,3
+TD-20995,Tamara Dahlen,Consumer,2019-05-13,9
+AB-10060,Adam Bellavance,Home Office,2020-09-11,8
+JL-15505,Jeremy Lonsdale,Consumer,2019-11-08,6
+VB-21745,Victoria Brennan,Corporate,2020-07-10,6
+KW-16435,Katrina Willman,Consumer,2020-08-17,5
+JD-16060,Julia Dunbar,Consumer,2019-09-18,3
+MK-17905,Michael Kennedy,Corporate,2019-11-12,8
+GT-14755,Guy Thornton,Consumer,2020-02-12,4
+AG-10900,Arthur Gainer,Consumer,2019-07-17,10
+MM-18280,Muhammed MacIntyre,Corporate,2019-01-14,9
+AR-10405,Allen Rosenblatt,Corporate,2019-09-27,5
+RA-19915,Russell Applegate,Consumer,2019-06-24,9
+AS-10285,Alejandro Savely,Corporate,2021-05-15,6
+LA-16780,Laura Armstrong,Corporate,2019-04-23,11
+DO-13435,Denny Ordway,Consumer,2019-09-27,9
+DK-13225,Dean Katz,Corporate,2019-03-08,9
+NG-18430,Nathan Gelder,Consumer,2019-11-18,5
+MV-18190,Mike Vittorini,Consumer,2019-01-24,7
+JG-15115,Jack Garza,Consumer,2019-09-15,3
+BP-11095,Bart Pistole,Corporate,2019-06-01,12
+VP-21730,Victor Preis,Home Office,2020-06-28,3
+SS-20140,Saphhira Shifley,Corporate,2019-11-17,8
+AG-10675,Anna Gayman,Consumer,2020-04-30,7
+LF-17185,Luke Foster,Consumer,2019-07-20,7
+RF-19840,Roy Französisch,Consumer,2019-11-06,8
+KH-16510,Keith Herrera,Consumer,2019-08-09,7
+KC-16675,Kimberly Carter,Corporate,2019-12-07,4
+CJ-12010,Caroline Jumper,Consumer,2021-03-04,8
+PB-19150,Philip Brown,Consumer,2019-07-08,8
+MP-17965,Michael Paige,Corporate,2020-04-11,9
+NF-18385,Natalie Fritzler,Consumer,2019-02-05,7
+SD-20485,Shirley Daniels,Home Office,2019-01-20,9
+KH-16630,Ken Heidel,Corporate,2019-10-26,9
+RB-19795,Ross Baird,Home Office,2019-05-28,8
+MK-18160,Mike Kennedy,Consumer,2019-12-13,4
+PO-19180,Philisse Overcash,Home Office,2020-08-04,9
+BB-11545,Brenda Bowman,Corporate,2020-05-29,9
+TB-21595,Troy Blackwell,Consumer,2019-02-12,5
+RB-19360,Raymond Buch,Consumer,2021-03-26,6
+EB-13705,Ed Braxton,Corporate,2019-07-02,9
+SC-20095,Sanjit Chand,Consumer,2019-02-06,9
+TN-21040,Tanja Norvell,Home Office,2019-10-04,7
+JS-15940,Joni Sundaresam,Home Office,2019-04-27,5
+MH-17785,Maya Herman,Corporate,2019-05-21,7
+JP-15520,Jeremy Pistek,Consumer,2019-08-16,7
+JE-15475,Jeremy Ellison,Consumer,2020-03-09,6
+JG-15805,John Grady,Corporate,2019-03-30,6
+XP-21865,Xylona Preis,Consumer,2019-01-14,11
+EM-14065,Erin Mull,Consumer,2019-07-16,4
+MT-18070,Michelle Tran,Home Office,2019-09-19,4
+SA-20830,Sue Ann Reed,Consumer,2019-02-16,10
+CW-11905,Carl Weiss,Home Office,2019-06-03,6
+AJ-10960,Astrea Jones,Consumer,2019-09-08,3
+SS-20590,Sonia Sunley,Consumer,2019-07-30,6
+RO-19780,Rose O'Brian,Consumer,2020-05-05,7
+MD-17350,Maribeth Dona,Consumer,2019-10-30,7
+MY-17380,Maribeth Yedwab,Corporate,2020-10-19,7
+CM-12385,Christopher Martinez,Consumer,2020-03-09,4
+LS-17245,Lynn Smith,Consumer,2019-10-10,6
+BN-11515,Bradley Nguyen,Consumer,2019-03-11,5
+DB-13210,Dean Braden,Consumer,2020-03-15,10
+MC-17605,Matt Connell,Corporate,2019-03-13,8
+BD-11605,Brian Dahlen,Consumer,2019-01-07,7
+PH-18790,Patricia Hirasaki,Home Office,2022-10-15,1
+MG-18145,Mike Gockenbach,Consumer,2019-03-23,4
+KB-16240,Karen Bern,Corporate,2019-03-25,7
+JC-15340,Jasper Cacioppo,Consumer,2019-01-22,4
+RL-19615,Rob Lucas,Consumer,2019-11-29,8
+AA-10375,Allen Armold,Consumer,2019-04-15,9
+EP-13915,Emily Phan,Consumer,2019-06-30,17
+DK-12985,Darren Koutras,Consumer,2019-11-18,5
+BD-11500,Bradley Drucker,Consumer,2019-01-26,6
+LM-17065,Liz MacKendrick,Consumer,2019-06-21,5
+AS-10135,Adrian Shami,Home Office,2021-11-07,2
+BD-11320,Bill Donatelli,Consumer,2020-05-24,12
+GT-14710,Greg Tran,Consumer,2019-05-17,11
+AJ-10945,Ashley Jarboe,Consumer,2019-02-25,7
+OT-18730,Olvera Toch,Consumer,2020-04-13,5
+LP-17080,Liz Pelletier,Consumer,2019-06-18,4
+CA-12775,Cynthia Arntzen,Consumer,2019-06-22,7
+JF-15490,Jeremy Farry,Consumer,2019-10-13,11
+FP-14320,Frank Preis,Consumer,2019-12-01,8
+EB-13840,Ellis Ballard,Corporate,2019-05-24,5
+JF-15415,Jennifer Ferguson,Consumer,2019-06-11,6
+SF-20200,Sarah Foster,Consumer,2019-12-17,9
+TG-21640,Trudy Glocke,Consumer,2019-03-25,4
+CS-11950,Carlos Soltero,Consumer,2019-06-02,11
+CC-12145,Charles Crestani,Consumer,2019-07-14,7
+DV-13465,Dianna Vittorini,Consumer,2019-06-16,6
+BD-11725,Bruce Degenhardt,Consumer,2020-06-26,6
+ZC-21910,Zuschuss Carroll,Consumer,2019-10-07,13
+MS-17830,Melanie Seite,Consumer,2019-01-03,4
+LR-16915,Lena Radford,Consumer,2019-08-02,6
+TP-21130,Theone Pippenger,Consumer,2020-04-07,9
+CK-12205,Chloris Kastensmidt,Consumer,2019-03-05,13
+AS-10240,Alan Shonely,Consumer,2019-03-09,7
+AR-10510,Andrew Roberts,Consumer,2019-04-26,5
+NB-18655,Nona Balk,Corporate,2019-11-29,9
+GD-14590,Giulietta Dortch,Corporate,2019-04-29,4
+CK-12595,Clytie Kelty,Consumer,2019-12-20,11
+NG-18355,Nat Gilpin,Corporate,2019-11-18,5
+CA-12265,Christina Anderson,Consumer,2019-03-19,9
+SF-20965,Sylvia Foulston,Corporate,2019-10-15,9
+MO-17800,Meg O'Connel,Home Office,2020-09-10,8
+AT-10735,Annie Thurman,Consumer,2019-08-24,10
+FM-14380,Fred McMath,Consumer,2020-07-05,9
+DJ-13420,Denny Joy,Corporate,2019-12-02,4
+ME-17725,Max Engle,Consumer,2019-07-06,8
+JD-16150,Justin Deggeller,Corporate,2019-11-10,8
+JL-15835,John Lee,Consumer,2019-04-12,11
+SC-20305,Sean Christensen,Consumer,2019-12-10,7
+CC-12430,Chuck Clark,Home Office,2020-08-30,10
+AR-10825,Anthony Rawles,Corporate,2019-06-24,8
+SR-20740,Steven Roelle,Home Office,2019-02-14,8
+CR-12730,Craig Reiter,Consumer,2019-08-14,4
+EH-14125,Eugene Hildebrand,Home Office,2019-10-13,10
+SP-20545,Sibella Parks,Corporate,2019-10-07,6
+TH-21235,Tiffany House,Corporate,2019-10-29,8
+RP-19390,Resi Pölking,Consumer,2019-05-18,12
+RB-19570,Rob Beeghly,Consumer,2021-04-22,5
+CD-11980,Carol Darley,Consumer,2021-11-18,3
+DJ-13630,Doug Jacobs,Consumer,2020-12-07,3
+GT-14635,Grant Thornton,Corporate,2019-05-31,3
+MC-17845,Michael Chen,Consumer,2019-06-29,7
+RA-19285,Ralph Arnett,Consumer,2019-12-07,9
+NP-18325,Naresj Patel,Consumer,2019-05-07,6
+AB-10165,Alan Barnes,Consumer,2019-11-10,8
+JO-15550,Jesus Ocampo,Home Office,2020-03-12,5
+JK-15370,Jay Kimmel,Consumer,2019-04-05,8
+BN-11470,Brad Norvell,Corporate,2019-09-06,4
+DP-13165,David Philippe,Consumer,2019-11-26,2
+TH-21550,Tracy Hopkins,Home Office,2019-03-30,7
+AP-10915,Arthur Prichep,Consumer,2019-08-17,10
+RS-19765,Roland Schwarz,Corporate,2019-04-01,8
+SV-20365,Seth Vernon,Consumer,2019-01-05,10
+CK-12325,Christine Kargatis,Home Office,2019-03-08,5
+RD-19810,Ross DeVincentis,Home Office,2019-10-21,8
+MR-17545,Mathew Reese,Home Office,2019-08-28,4
+SC-20695,Steve Chapman,Corporate,2019-12-10,10
+JF-15355,Jay Fein,Consumer,2020-10-16,6
+EG-13900,Emily Grady,Consumer,2020-10-26,5
+DS-13030,Darrin Sayre,Home Office,2019-07-03,4
+PO-19195,Phillina Ober,Home Office,2018-12-29,5
+SS-20875,Sung Shariari,Consumer,2019-12-08,5
+PB-19105,Peter Bühler,Consumer,2019-11-09,4
+RF-19735,Roland Fjeld,Consumer,2019-07-31,7
+YC-21895,Yoseph Carroll,Corporate,2019-11-11,5
+DC-13285,Debra Catini,Consumer,2019-12-23,5
+CP-12340,Christine Phan,Corporate,2019-03-11,8
+BF-11020,Barry Französisch,Corporate,2019-02-09,8
+LH-17020,Lisa Hazard,Consumer,2019-09-02,4
+CS-12250,Chris Selesnick,Corporate,2019-01-07,12
+AJ-10795,Anthony Johnson,Corporate,2019-05-08,7
+BV-11245,Benjamin Venier,Corporate,2020-03-19,5
+DL-12865,Dan Lawera,Consumer,2019-06-23,8
+BM-11785,Bryan Mills,Consumer,2019-05-31,10
+LT-17110,Liz Thompson,Consumer,2019-05-26,8
+JK-15730,Joe Kamberova,Consumer,2019-11-12,10
+ES-14020,Erica Smith,Consumer,2019-09-14,5
+RH-19495,Rick Hansen,Consumer,2019-08-17,5
+CD-11920,Carlos Daly,Consumer,2019-03-18,5
+HW-14935,Helen Wasserman,Corporate,2020-09-20,8
+MC-18130,Mike Caudle,Corporate,2019-09-13,5
+GM-14440,Gary McGarr,Consumer,2019-03-15,7
+PJ-19015,Pauline Johnson,Consumer,2019-04-01,7
+BW-11110,Bart Watters,Corporate,2020-03-13,8
+TR-21325,Toby Ritter,Consumer,2019-11-25,5
+PG-18820,Patrick Gardner,Consumer,2019-05-03,13
+JL-15175,James Lanier,Home Office,2019-12-25,5
+BM-11650,Brian Moss,Corporate,2019-07-03,11
+EM-14095,Eudokia Martin,Corporate,2020-07-31,4
+AF-10885,Art Foster,Consumer,2019-05-04,4
+GA-14725,Guy Armstrong,Consumer,2019-02-05,11
+CK-12760,Cyma Kinney,Corporate,2019-02-01,9
+DP-13105,Dave Poirier,Corporate,2020-08-15,8
+BK-11260,Berenike Kampe,Consumer,2019-07-28,6
+SJ-20125,Sanjit Jacobs,Home Office,2020-09-15,12
+CM-12445,Chuck Magee,Consumer,2019-06-03,3
+AJ-10780,Anthony Jacobs,Corporate,2019-01-04,7
+LS-16945,Linda Southworth,Corporate,2020-04-18,6
+GP-14740,Guy Phonely,Corporate,2019-03-31,2
+PK-18910,Paul Knutson,Home Office,2019-03-29,2
+SM-20005,Sally Matthias,Consumer,2019-11-17,4
+AG-10765,Anthony Garverick,Home Office,2019-09-11,4
+PM-19135,Peter McVee,Home Office,2020-12-12,4
+LL-16840,Lauren Leatherbury,Consumer,2019-04-23,6
+JS-15595,Jill Stevenson,Corporate,2019-02-25,4
+EL-13735,Ed Ludwig,Home Office,2021-04-16,2
+PC-18745,Pamela Coakley,Corporate,2019-12-25,4
+HL-15040,Hunter Lopez,Consumer,2019-01-14,6
+MS-17365,Maribeth Schnelling,Consumer,2019-09-03,10
+GB-14530,George Bell,Corporate,2019-04-22,11
+JR-16210,Justin Ritter,Corporate,2020-09-11,5
+BE-11335,Bill Eplett,Home Office,2021-01-08,5
+SC-20050,Sample Company A,Home Office,2019-03-12,9
+RW-19630,Rob Williams,Corporate,2019-06-22,9
+SE-20110,Sanjit Engle,Consumer,2019-04-05,11
+AH-10075,Adam Hart,Corporate,2019-11-10,10
+JM-15535,Jessica Myrick,Consumer,2019-09-07,7
+JJ-15760,Joel Jenkins,Home Office,2020-09-28,2
+RK-19300,Ralph Kennedy,Consumer,2020-07-13,3
+CG-12040,Catherine Glotzbach,Home Office,2020-05-25,6
+RP-19270,Rachel Payne,Corporate,2019-10-13,4
+KC-16255,Karen Carlisle,Corporate,2019-09-02,6
+KH-16360,Katherine Hughes,Consumer,2019-04-23,6
+GH-14665,Greg Hansen,Consumer,2020-11-10,2
+SW-20275,Scott Williamson,Consumer,2019-03-04,6
+JA-15970,Joseph Airdo,Consumer,2019-09-11,8
+DL-12925,Daniel Lacy,Consumer,2019-09-03,6
+LW-16990,Lindsay Williams,Corporate,2021-04-29,6
+TB-21190,Thomas Brumley,Home Office,2019-12-21,4
+BS-11800,Bryan Spruell,Home Office,2020-09-19,2
+RW-19690,Robert Waldorf,Consumer,2021-05-24,5
+TZ-21580,Tracy Zic,Consumer,2019-11-05,4
+AS-10630,Ann Steele,Home Office,2019-07-26,7
+TS-21340,Toby Swindell,Consumer,2019-01-13,5
+SL-20155,Sara Luxemburg,Home Office,2019-09-15,7
+MW-18235,Mitch Willingham,Corporate,2019-05-15,2
+RD-19585,Rob Dowd,Consumer,2019-03-27,10
+RA-19945,Ryan Akin,Consumer,2019-08-23,5
+MT-17815,Meg Tillman,Consumer,2020-10-30,6
+VG-21790,Vivek Gonzalez,Consumer,2019-08-02,6
+JS-15880,John Stevenson,Consumer,2019-04-02,5
+KM-16225,Kalyca Meade,Corporate,2020-06-29,6
+HR-14770,Hallie Redmond,Home Office,2019-02-23,5
+DE-13255,Deanra Eno,Home Office,2019-08-16,5
+AG-10390,Allen Goldenen,Consumer,2019-04-13,5
+JJ-15445,Jennifer Jackson,Consumer,2020-02-27,5
+JH-15430,Jennifer Halladay,Consumer,2019-02-18,4
+RD-19660,Robert Dilbeck,Home Office,2020-04-05,5
+MO-17500,Mary O'Rourke,Consumer,2019-11-22,4
+NS-18640,Noel Staavos,Corporate,2019-06-19,13
+DG-13300,Deirdre Greer,Corporate,2019-10-26,5
+NF-18595,Nicole Fjeld,Home Office,2019-04-13,7
+MG-17650,Matthew Grinstein,Home Office,2019-08-03,7
+TS-21160,Theresa Swint,Corporate,2019-04-17,6
+BD-11620,Brian DeCherney,Consumer,2019-06-24,6
+CM-12160,Charles McCrossin,Consumer,2021-10-15,6
+SN-20560,Skye Norling,Home Office,2020-06-11,6
+EH-14005,Erica Hernandez,Home Office,2019-05-07,7
+FO-14305,Frank Olsen,Consumer,2019-06-03,10
+MS-17710,Maurice Satty,Consumer,2019-03-18,6
+CC-12100,Chad Cunningham,Home Office,2019-12-10,6
+DW-13540,Don Weiss,Consumer,2021-02-20,5
+BT-11395,Bill Tyler,Corporate,2019-10-22,6
+CY-12745,Craig Yedwab,Corporate,2019-12-06,8
+BT-11485,Brad Thomas,Home Office,2020-12-20,2
+PS-19045,Penelope Sewall,Home Office,2019-12-14,7
+PV-18985,Paul Van Hugh,Home Office,2019-07-06,5
+NM-18520,Neoma Murray,Consumer,2020-09-01,10
+DL-13495,Dionis Lloyd,Corporate,2020-12-18,8
+CS-12355,Christine Sundaresam,Consumer,2019-08-09,11
+FH-14275,Frank Hawley,Corporate,2019-03-31,10
+NC-18340,Nat Carroll,Consumer,2019-03-24,5
+AA-10315,Alex Avila,Consumer,2019-03-25,5
+LT-16765,Larry Tron,Consumer,2019-08-26,3
+AP-10720,Anne Pryor,Home Office,2019-02-25,8
+PM-18940,Paul MacIntyre,Consumer,2019-04-28,3
+AT-10435,Alyssa Tate,Home Office,2019-11-18,6
+CA-12055,Cathy Armstrong,Home Office,2020-08-29,5
+HR-14830,Harold Ryan,Corporate,2019-11-18,7
+BT-11530,Bradley Talbott,Home Office,2019-05-15,5
+LH-16750,Larry Hughes,Consumer,2019-09-15,3
+SW-20755,Steven Ward,Corporate,2019-10-27,2
+SP-20620,Stefania Perrino,Corporate,2019-09-02,9
+BF-11170,Ben Ferrer,Home Office,2019-04-07,11
+KT-16480,Kean Thornton,Consumer,2019-03-04,10
+BG-11695,Brooke Gillingham,Corporate,2019-05-05,6
+GM-14680,Greg Matthias,Consumer,2019-05-04,6
+EJ-14155,Eva Jacobs,Consumer,2019-02-25,5
+NP-18700,Nora Preis,Consumer,2019-08-30,7
+MH-18115,Mick Hernandez,Home Office,2021-08-17,9
+JR-15700,Jocasta Rupert,Consumer,2022-10-17,1
+SM-20950,Suzanne McNair,Corporate,2019-09-23,12
+CC-12220,Chris Cortes,Consumer,2019-09-03,12
+PF-19225,Phillip Flathmann,Consumer,2021-06-20,5
+DC-12850,Dan Campbell,Consumer,2019-06-29,9
+BD-11770,Bryan Davis,Consumer,2021-03-04,6
+GM-14500,Gene McClure,Consumer,2019-08-03,10
+TB-21355,Todd Boyes,Corporate,2021-01-18,5
+JH-16180,Justin Hirsh,Consumer,2020-05-18,4
+EB-13975,Erica Bern,Corporate,2020-12-28,4
+QJ-19255,Quincy Jones,Corporate,2019-03-11,9
+TC-21535,Tracy Collins,Home Office,2019-10-28,7
+CS-12460,Chuck Sachs,Consumer,2022-06-27,2
+HG-14965,Henry Goldwyn,Corporate,2019-09-14,12
+LW-16825,Laurel Workman,Corporate,2019-05-24,5
+MC-17575,Matt Collins,Consumer,2019-11-26,8
+LP-17095,Liz Preis,Consumer,2021-05-31,7
+EB-14170,Evan Bailliet,Consumer,2019-09-23,6
+GZ-14545,George Zrebassa,Corporate,2019-09-22,4
+CP-12085,Cathy Prescott,Corporate,2019-11-28,8
+FG-14260,Frank Gastineau,Home Office,2019-05-15,7
+LD-17005,Lisa DeCherney,Consumer,2019-09-23,4
+AB-10255,Alejandro Ballentine,Home Office,2019-07-16,9
+MN-17935,Michael Nguyen,Consumer,2019-02-10,6
+JR-15670,Jim Radford,Consumer,2020-12-17,2
+JF-15190,Jamie Frazer,Consumer,2019-11-09,7
+CM-12115,Chad McGuire,Consumer,2020-03-22,4
+AS-10045,Aaron Smayling,Corporate,2019-07-21,7
+BP-11290,Beth Paige,Consumer,2019-09-27,7
+ND-18370,Natalie DeCherney,Consumer,2019-01-07,9
+LB-16735,Larry Blacks,Consumer,2021-07-19,3
+KT-16465,Kean Takahito,Consumer,2019-09-02,7
+HM-14860,Harry Marie,Corporate,2019-07-15,10
+AB-10600,Ann Blume,Corporate,2019-11-12,4
+SZ-20035,Sam Zeldin,Home Office,2019-09-01,11
+MG-17890,Michael Granlund,Home Office,2019-12-23,9
+JK-16120,Julie Kriz,Home Office,2019-10-27,10
+PP-18955,Paul Prost,Home Office,2019-08-20,10
+YS-21880,Yana Sorensen,Corporate,2020-01-06,8
+KM-16375,Katherine Murray,Home Office,2019-07-14,8
+AB-10105,Adrian Barton,Consumer,2019-12-14,10
+HA-14905,Helen Abelman,Consumer,2019-06-24,7
+BT-11305,Beth Thompson,Home Office,2019-04-19,5
+SV-20815,Stuart Van,Corporate,2020-04-27,4
+RW-19540,Rick Wilson,Corporate,2020-01-28,7
+DK-12835,Damala Kotsonis,Corporate,2019-03-20,12
+ST-20530,Shui Tom,Consumer,2019-02-08,7
+MM-17920,Michael Moore,Consumer,2019-01-07,11
+PW-19030,Pauline Webber,Corporate,2019-05-10,10
+SC-20440,Shaun Chance,Corporate,2020-08-10,7
+TS-21085,Thais Sissman,Consumer,2020-07-12,2
+MC-17425,Mark Cousins,Corporate,2019-05-24,5
+ME-17320,Maria Etezadi,Home Office,2018-12-31,10
+NH-18610,Nicole Hansen,Corporate,2019-02-24,7
+MB-18085,Mick Brown,Consumer,2018-12-30,7
+KD-16495,Keith Dawkins,Corporate,2019-09-22,12
+KN-16390,Katherine Nockton,Corporate,2019-11-26,9
+NP-18685,Nora Pelletier,Home Office,2019-03-01,6
+CS-12505,Cindy Stewart,Consumer,2019-03-20,6
+MS-17770,Maxwell Schwartz,Consumer,2019-06-28,9
+CM-12655,Corinna Mitchell,Home Office,2020-03-12,6
+Co-12640,Corey-Lock,Consumer,2019-06-14,5
+TS-21370,Todd Sumrall,Corporate,2019-10-22,6
+JW-15220,Jane Waco,Corporate,2020-04-23,6
+JD-15790,John Dryer,Consumer,2020-03-26,5
+PC-19000,Pauline Chand,Home Office,2019-04-02,2
+AR-10540,Andy Reiter,Consumer,2019-11-19,6
+AI-10855,Arianne Irving,Consumer,2019-04-22,10
+TB-21400,Tom Boeckenhauer,Consumer,2019-01-15,7
+PL-18925,Paul Lucas,Home Office,2019-10-26,5
+GH-14425,Gary Hwang,Consumer,2019-06-11,4
+MP-18175,Mike Pelletier,Home Office,2019-03-22,9
+JM-15655,Jim Mitchum,Corporate,2019-04-02,5
+CL-11890,Carl Ludwig,Consumer,2019-07-20,4
+DB-13270,Deborah Brumfield,Home Office,2019-01-29,8
+IG-15085,Ivan Gibson,Consumer,2019-10-12,4
+BO-11425,Bobby Odegard,Consumer,2020-09-03,2
+AB-10150,Aimee Bixby,Consumer,2019-02-27,5
+JW-16075,Julia West,Consumer,2020-03-14,4
+EB-13750,Edward Becker,Corporate,2020-03-05,10
+SG-20470,Sheri Gordon,Consumer,2019-07-20,8
+CM-12190,Charlotte Melton,Consumer,2020-09-11,6
+AW-10840,Anthony Witt,Consumer,2020-04-06,4
+MC-18100,Mick Crebagga,Consumer,2019-06-12,10
+TT-21460,Tonja Turnell,Home Office,2020-12-01,7
+VG-21805,Vivek Grady,Corporate,2019-09-16,5
+MY-18295,Muhammed Yedwab,Corporate,2019-04-22,11
+RD-19480,Rick Duston,Consumer,2019-06-02,8
+DP-13390,Dennis Pardue,Home Office,2019-06-29,9
+ML-17395,Marina Lichtenstein,Corporate,2019-02-08,9
+JC-15385,Jenna Caffey,Consumer,2022-07-02,1
+JG-15160,James Galang,Consumer,2019-05-24,11
+MC-17275,Marc Crier,Consumer,2019-09-02,8
+NW-18400,Natalie Webber,Consumer,2019-06-15,7
+TB-21280,Toby Braunhardt,Consumer,2019-06-15,6
+BS-11380,Bill Stewart,Corporate,2019-11-23,5
+HH-15010,Hilary Holden,Corporate,2019-08-23,2
+CD-12280,Christina DeMoss,Consumer,2022-10-30,2
+TH-21100,Thea Hendricks,Consumer,2019-09-21,5
+MM-18055,Michelle Moray,Consumer,2019-04-05,8
+NS-18505,Neola Schneider,Consumer,2021-11-18,4
+RB-19645,Robert Barroso,Corporate,2019-08-17,5
+SW-20455,Shaun Weien,Consumer,2020-06-15,7
+EB-13930,Eric Barreto,Consumer,2019-01-27,5
+PS-18760,Pamela Stobb,Consumer,2019-06-09,6
+HF-14995,Herbert Flentye,Consumer,2019-05-20,7
+HZ-14950,Henia Zydlo,Consumer,2021-03-08,5
+CD-12790,Cynthia Delaney,Home Office,2019-01-27,5
+JK-15205,Jamie Kunitz,Consumer,2019-07-05,5
+FM-14215,Filia McAdams,Corporate,2019-03-05,10
+ED-13885,Emily Ducich,Home Office,2019-08-03,8
+DA-13450,Dianna Arnett,Home Office,2019-04-19,4
+JW-15955,Joni Wasserman,Consumer,2020-08-09,7
+RM-19375,Raymond Messe,Consumer,2019-05-05,6
+ML-17755,Max Ludwig,Home Office,2021-07-29,7
+CC-12685,Craig Carroll,Consumer,2019-03-16,4
+JE-15610,Jim Epp,Corporate,2019-10-08,7
+RP-19855,Roy Phan,Corporate,2019-03-30,8
+TB-21175,Thomas Boland,Corporate,2019-12-02,4
+BE-11455,Brad Eason,Home Office,2020-07-26,6
+JF-15565,Jill Fjeld,Consumer,2019-10-05,8
+PB-19210,Phillip Breyer,Corporate,2019-11-17,2
+BT-11680,Brian Thompson,Consumer,2019-11-22,7
+JL-15235,Janet Lee,Consumer,2019-05-19,5
+CH-12070,Cathy Hwang,Home Office,2020-06-18,3
+ND-18460,Neil Ducich,Corporate,2019-01-31,6
+BF-10975,Barbara Fisher,Corporate,2019-07-08,7
+KH-16330,Katharine Harms,Corporate,2019-03-26,8
+GW-14605,Giulietta Weimer,Consumer,2019-02-23,7
+NC-18625,Noah Childs,Corporate,2019-10-23,5
+ME-18010,Michelle Ellison,Corporate,2019-07-15,4
+BP-11230,Benjamin Patterson,Consumer,2019-04-14,5
+JC-15775,John Castell,Consumer,2019-09-08,9
+AS-10090,Adam Shillingsburg,Consumer,2019-09-16,9
+AC-10450,Amy Cox,Consumer,2019-10-25,7
+MD-17860,Michael Dominguez,Corporate,2019-11-26,5
+DB-13660,Duane Benoit,Consumer,2019-06-11,7
+EH-13990,Erica Hackney,Consumer,2019-01-09,6
+EH-13765,Edward Hooks,Corporate,2019-04-06,12
+SC-20230,Scot Coram,Corporate,2021-05-31,4
+JE-15715,Joe Elijah,Consumer,2019-08-19,10
+AC-10615,Ann Chong,Corporate,2020-09-08,5
+JD-16015,Joy Daniels,Consumer,2019-09-28,6
+CB-12415,Christy Brittain,Consumer,2020-10-29,8
+JS-16030,Joy Smith,Consumer,2019-02-21,6
+LW-17215,Luke Weiss,Consumer,2019-09-06,7
+SC-20800,Stuart Calhoun,Consumer,2020-12-04,4
+AM-10705,Anne McFarland,Consumer,2019-10-25,8
+RH-19510,Rick Huthwaite,Home Office,2019-11-10,6
+CT-11995,Carol Triggs,Consumer,2019-05-01,8
+MC-17590,Matt Collister,Corporate,2019-05-14,6
+CC-12610,Corey Catlett,Corporate,2019-08-21,7
+KA-16525,Kelly Andreada,Consumer,2019-03-05,7
+TC-20980,Tamara Chand,Corporate,2019-11-01,5
+BF-11080,Bart Folk,Consumer,2019-11-22,3
+MM-17260,Magdelene Morse,Consumer,2019-05-22,4
+AH-10120,Adrian Hane,Home Office,2019-07-12,7
+BW-11200,Ben Wallace,Consumer,2019-08-06,6
+SW-20245,Scot Wooten,Consumer,2019-07-14,7
+BS-11665,Brian Stugart,Consumer,2019-06-17,3
+RF-19345,Randy Ferguson,Corporate,2019-05-14,8
+WB-21850,William Brown,Consumer,2019-10-29,11
+TB-21625,Trudy Brown,Consumer,2019-07-31,9
+AF-10870,Art Ferguson,Consumer,2020-11-29,7
+RB-19435,Richard Bierner,Consumer,2019-03-05,8
+KF-16285,Karen Ferguson,Home Office,2019-09-20,7
+JH-15820,John Huston,Consumer,2019-05-13,6
+IL-15100,Ivan Liston,Consumer,2019-07-26,7
+PB-18805,Patrick Bzostek,Home Office,2020-11-13,3
+RH-19600,Rob Haberlin,Consumer,2020-06-25,3
+AW-10930,Arthur Wiediger,Home Office,2019-07-08,7
+ML-17410,Maris LaWare,Consumer,2019-11-08,6
+DB-13555,Dorothy Badders,Corporate,2019-04-15,7
+MH-17620,Matt Hagelstein,Corporate,2020-11-28,4
+DK-13375,Dennis Kane,Consumer,2019-09-01,8
+BT-11440,Bobby Trafton,Consumer,2019-05-29,4
+DB-13405,Denny Blanton,Consumer,2020-08-01,4
+TG-21310,Toby Gnade,Consumer,2020-03-02,5
+BF-11005,Barry Franz,Home Office,2019-09-19,4
+JM-16195,Justin MacKendrick,Consumer,2019-04-24,10
+MZ-17335,Maria Zettner,Home Office,2020-11-01,4
+MW-18220,Mitch Webber,Consumer,2019-08-19,7
+MV-17485,Mark Van Huff,Consumer,2019-01-14,9
+SM-20320,Sean Miller,Home Office,2019-03-12,5
+TP-21415,Tom Prescott,Consumer,2020-11-21,5
+JK-15625,Jim Karlsson,Consumer,2019-05-25,7
+PJ-18835,Patrick Jones,Corporate,2019-05-22,8
+RS-19420,Ricardo Sperren,Corporate,2019-07-30,5
+SV-20935,Susan Vittorini,Consumer,2021-03-13,8
+BC-11125,Becky Castell,Home Office,2019-06-30,9
+EM-13825,Elizabeth Moffitt,Corporate,2019-11-26,8
+BM-11575,Brendan Murry,Corporate,2020-09-08,6
+KN-16705,Kristina Nunn,Home Office,2019-02-24,8
+KW-16570,Kelly Williams,Consumer,2019-09-24,4
+SC-20260,Scott Cohen,Corporate,2019-03-31,8
+CV-12295,Christina VanderZanden,Consumer,2019-03-22,5
+SG-20605,Speros Goranitis,Consumer,2019-01-17,6
+TM-21010,Tamara Manning,Consumer,2019-02-15,8
+EM-13810,Eleni McCrary,Corporate,2020-05-31,5
+ML-18040,Michelle Lonsdale,Corporate,2022-03-20,3
+CR-12580,Clay Rozendal,Home Office,2021-04-12,4
+AZ-10750,Annie Zypern,Consumer,2019-03-11,6
+PW-19240,Pierre Wener,Consumer,2019-11-12,7
+SC-20380,Shahid Collister,Consumer,2019-02-23,9
+CM-11935,Carlos Meador,Consumer,2020-09-17,2
+GM-14695,Greg Maxwell,Corporate,2019-03-30,3
+TB-21250,Tim Brockman,Consumer,2019-12-02,7
+JM-15865,John Murray,Consumer,2019-11-13,7
+SC-20575,Sonia Cooley,Consumer,2019-06-10,5
+LS-17200,Luke Schmidt,Corporate,2019-10-12,6
+RR-19315,Ralph Ritter,Consumer,2021-11-08,2
+DB-12910,Daniel Byrd,Home Office,2019-10-18,8
+TT-21220,Thomas Thornton,Consumer,2019-09-17,8
+LO-17170,Lori Olson,Corporate,2020-01-31,5
+KD-16615,Ken Dana,Corporate,2020-09-06,5
+NB-18580,Nicole Brennan,Corporate,2019-09-20,2
+BD-11635,Brian Derr,Consumer,2019-09-29,3
+CM-12235,Chris McAfee,Consumer,2021-04-25,5
+EN-13780,Edward Nazzal,Consumer,2020-05-23,4
+KN-16450,Kean Nguyen,Corporate,2019-04-06,5
+BO-11350,Bill Overfelt,Corporate,2020-12-27,5
+AG-10300,Aleksandra Gannaway,Corporate,2019-04-20,4
+MC-17635,Matthew Clasen,Corporate,2019-11-22,4
+TA-21385,Tom Ashbrook,Home Office,2019-09-06,4
+JF-15295,Jason Fortune-,Consumer,2019-03-08,5
+TT-21265,Tim Taslimi,Corporate,2020-08-08,3
+SB-20170,Sarah Bern,Consumer,2019-05-31,3
+CL-12700,Craig Leslie,Home Office,2021-04-18,5
+HG-15025,Hunter Glantz,Consumer,2019-10-08,7
+NL-18310,Nancy Lomonaco,Home Office,2019-10-25,4
+RR-19525,Rick Reed,Corporate,2019-09-03,6
+TC-21295,Toby Carlisle,Consumer,2019-10-08,8
+SV-20785,Stewart Visinsky,Consumer,2019-04-06,9
+BE-11410,Bobby Elias,Consumer,2021-01-31,5
+SC-20680,Steve Carroll,Home Office,2019-11-15,6
+DF-13135,David Flashing,Consumer,2019-09-28,3
+FH-14350,Fred Harton,Consumer,2020-08-16,4
+MS-17530,MaryBeth Skach,Consumer,2019-10-29,4
+RH-19555,Ritsa Hightower,Consumer,2020-11-27,2
+GA-14515,George Ashbrook,Consumer,2019-05-12,8
+JP-16135,Julie Prescott,Home Office,2019-09-17,9
+Dp-13240,Dean percer,Home Office,2019-05-20,11
+MO-17950,Michael Oakman,Consumer,2020-03-26,2
+DL-13330,Denise Leinenbach,Consumer,2019-06-17,4
+MH-18025,Michelle Huthwaite,Consumer,2019-07-02,5
+DR-12940,Daniel Raglin,Home Office,2019-03-22,8
+DM-13015,Darrin Martin,Consumer,2019-09-08,7
+CA-11965,Carol Adams,Corporate,2019-01-20,6
+AC-10660,Anna Chung,Consumer,2019-10-09,5
+DM-13345,Denise Monton,Corporate,2019-10-28,8
+VF-21715,Vicky Freymann,Home Office,2019-02-23,5
+CC-12370,Christopher Conant,Consumer,2021-05-17,5
+BF-11275,Beth Fritzler,Corporate,2019-03-16,3
+HG-14845,Harry Greene,Consumer,2019-04-23,5
+BP-11155,Becky Pak,Consumer,2020-05-28,6
+EM-14140,Eugene Moren,Home Office,2019-07-13,6
+MA-17995,Michelle Arnett,Home Office,2019-09-14,6
+AY-10555,Andy Yotov,Corporate,2019-03-31,4
+GB-14575,Giulietta Baptist,Consumer,2020-06-05,5
+JB-16045,Julia Barnett,Home Office,2020-04-26,5
+MG-17875,Michael Grace,Home Office,2019-02-17,5
+SR-20425,Sharelle Roach,Home Office,2019-06-08,5
+JB-16000,Joy Bell-,Consumer,2021-01-03,7
+DM-12955,Dario Medina,Corporate,2019-09-24,7
+TC-21475,Tony Chapman,Home Office,2019-11-16,9
+SW-20350,Sean Wendt,Home Office,2021-04-03,3
+RE-19450,Richard Eichhorn,Consumer,2019-05-28,5
+BF-11215,Benjamin Farhat,Home Office,2019-11-03,4
+KB-16405,Katrina Bavinger,Home Office,2020-11-13,3
+JG-15310,Jason Gross,Corporate,2021-02-25,6
+EC-14050,Erin Creighton,Consumer,2019-12-11,5
+EB-14110,Eugene Barchas,Consumer,2020-04-06,6
+JP-15460,Jennifer Patt,Corporate,2019-08-18,7
+CS-11845,Cari Sayre,Corporate,2019-12-08,5
+GH-14410,Gary Hansen,Home Office,2019-07-03,9
+PT-19090,Pete Takahito,Consumer,2019-09-06,4
+JL-15130,Jack Lebron,Consumer,2019-07-12,6
+AH-10030,Aaron Hawkins,Corporate,2019-04-16,7
+CC-12475,Cindy Chapman,Consumer,2019-05-10,9
+DW-13195,David Wiener,Corporate,2019-01-12,6
+SJ-20215,Sarah Jordon,Consumer,2020-02-03,6
+BG-11740,Bruce Geld,Consumer,2019-03-17,6
+LB-16795,Laurel Beltran,Home Office,2019-04-17,8
+CM-11815,Candace McMahon,Corporate,2019-11-08,6
+EH-14185,Evan Henry,Consumer,2019-05-16,6
+TS-21505,Tony Sayre,Consumer,2019-12-14,6
+PR-18880,Patrick Ryan,Consumer,2019-08-30,5
+LC-17050,Liz Carlisle,Consumer,2019-01-25,5
+CS-12490,Cindy Schnelling,Corporate,2020-01-06,4
+DH-13075,Dave Hallsten,Corporate,2019-11-15,6
+JO-15145,Jack O'Briant,Corporate,2018-12-31,9
+AH-10690,Anna Häberlin,Corporate,2019-03-27,12
+HJ-14875,Heather Jas,Home Office,2020-04-06,5
+MH-17455,Mark Hamilton,Consumer,2019-07-05,8
+RD-19930,Russell D'Ascenzo,Consumer,2019-09-27,4
+SC-20020,Sam Craven,Consumer,2019-02-25,5
+SU-20665,Stephanie Ulpright,Home Office,2020-11-28,7
+FC-14335,Fred Chung,Corporate,2019-10-04,7
+RB-19330,Randy Bradley,Consumer,2019-11-11,2
+NC-18535,Nick Crebassa,Corporate,2019-07-17,7
+DB-12970,Darren Budd,Corporate,2019-11-06,5
+MF-17665,Maureen Fritzler,Corporate,2019-12-24,5
+RM-19750,Roland Murray,Consumer,2022-02-28,1
+VM-21835,Vivian Mathis,Consumer,2019-03-16,5
+EJ-13720,Ed Jacobs,Consumer,2019-01-21,4
+NC-18415,Nathan Cano,Consumer,2019-04-27,6
+LS-17230,Lycoris Saunders,Consumer,2018-12-31,3
+KE-16420,Katrina Edelman,Corporate,2019-03-28,8
+DH-13675,Duane Huffman,Home Office,2019-08-06,4
+PF-19120,Peter Fuller,Consumer,2019-04-29,4
+VT-21700,Valerie Takahito,Home Office,2019-05-31,2
+MG-17695,Maureen Gnade,Consumer,2019-12-20,3
+SP-20920,Susan Pistek,Consumer,2019-11-16,6
+CS-12175,Charles Sheldon,Corporate,2019-08-06,5
+DK-12895,Dana Kaydos,Consumer,2020-03-01,5
+KM-16660,Khloe Miller,Consumer,2019-12-16,5
+AA-10645,Anna Andreadi,Consumer,2019-06-16,6
+DD-13570,Dorothy Dickinson,Consumer,2019-03-25,6
+AH-10465,Amy Hunt,Consumer,2019-12-28,5
+TP-21565,Tracy Poddar,Corporate,2020-02-23,4
+EK-13795,Eileen Kiefer,Home Office,2019-03-12,4
+CR-12820,Cyra Reiten,Home Office,2020-01-18,3
+SG-20890,Susan Gilcrest,Corporate,2019-03-24,3
+AH-10585,Angele Hood,Consumer,2019-10-20,4
+NF-18475,Neil Französisch,Home Office,2019-03-08,4
+BS-11365,Bill Shonely,Corporate,2019-04-28,5
+SH-20635,Stefanie Holloman,Corporate,2019-12-10,2
+RD-19720,Roger Demir,Consumer,2019-07-14,10
+AG-10330,Alex Grayson,Consumer,2021-07-28,5
+GR-14560,Georgia Rosenberg,Corporate,2019-11-13,2
+VS-21820,Vivek Sundaresam,Consumer,2019-01-01,4
+TM-21490,Tony Molinari,Consumer,2022-03-24,3
+TS-21430,Tom Stivers,Corporate,2019-07-24,5
+DB-13360,Dennis Bolton,Home Office,2019-11-13,5
+NR-18550,Nick Radford,Consumer,2019-06-01,5
+CS-11860,Cari Schnelling,Consumer,2019-04-26,6
+MF-18250,Monica Federle,Corporate,2019-09-09,5
+LW-17125,Liz Willingham,Consumer,2019-09-05,3
+AR-10345,Alex Russell,Corporate,2019-12-24,4
+KS-16300,Karen Seio,Corporate,2020-01-07,3
+AB-10015,Aaron Bergman,Consumer,2019-02-12,3
+LR-17035,Lisa Ryan,Corporate,2019-09-01,5
+SS-20410,Shahid Shariari,Consumer,2019-05-24,6
+JM-15580,Jill Matthias,Consumer,2021-04-08,5
+JK-15325,Jason Klamczynski,Corporate,2019-11-15,3
+DM-13525,Don Miller,Corporate,2019-06-29,3
+ML-18265,Muhammed Lee,Consumer,2020-05-24,2
+MH-17290,Marc Harrigan,Home Office,2019-04-20,6
+FC-14245,Frank Carlisle,Home Office,2020-06-06,7
+TH-21115,Thea Hudgings,Corporate,2019-09-17,4
+JK-16090,Juliana Krohn,Consumer,2020-04-14,3
+SB-20185,Sarah Brown,Consumer,2019-09-14,6
+BG-11035,Barry Gonzalez,Consumer,2019-10-30,8
+BW-11065,Barry Weirich,Consumer,2019-05-19,3
+MG-18205,Mitch Gastineau,Corporate,2022-04-04,1
+DO-13645,Doug O'Connell,Consumer,2020-10-31,7
+BP-11050,Barry Pond,Corporate,2019-10-06,5
+TS-21655,Trudy Schmidt,Consumer,2020-01-31,5
+EM-14200,Evan Minnotte,Home Office,2020-12-13,3
+AO-10810,Anthony O'Donnell,Corporate,2021-08-10,1
+MH-17440,Mark Haberlin,Corporate,2019-01-29,4
+SS-20515,Shirley Schmidt,Home Office,2019-07-08,3
+LD-16855,Lela Donovan,Corporate,2021-06-20,1
+VP-21760,Victoria Pisteka,Corporate,2019-08-31,7
+TC-21145,Theresa Coyne,Corporate,2022-09-09,1
+IM-15055,Ionia McGrath,Consumer,2019-01-17,3
+AR-10570,Anemone Ratner,Consumer,2021-07-08,1
+CM-12715,Craig Molinari,Corporate,2019-03-01,4
+FW-14395,Fred Wasserman,Corporate,2020-03-15,3
+LC-16960,Lindsay Castell,Home Office,2020-02-17,4
+HE-14800,Harold Engle,Corporate,2021-01-23,4
+BD-11560,Brendan Dodson,Home Office,2020-05-23,2
+HD-14785,Harold Dahlen,Home Office,2019-05-05,3
+CJ-11875,Carl Jackson,Corporate,2021-12-24,1
+RS-19870,Roy Skaria,Home Office,2021-06-01,2
+SC-20845,Sung Chung,Consumer,2021-11-05,2
+RE-19405,Ricardo Emerson,Consumer,2019-12-23,1
+SM-20905,Susan MacKendrick,Consumer,2021-04-27,1
